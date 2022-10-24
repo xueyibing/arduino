@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "freertos/freertos.ino",
+    "port": "/dev/tty.Bluetooth-Incoming-Port",
+    "programmer": "arduino:arduinoasispatmega32u4"
+}
